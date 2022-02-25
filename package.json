@@ -1,0 +1,12 @@
+{
+  "name": "assignment1",
+  "version": "1.0.0",
+  "description": "Robert Fairbrother\r CDI College Calgary North Campus assignment1\r 2022-02-24\r *I created a file named package.json for my source code\r *I may have used some code in a tutorial video on youtube here: https://www.youtube.com/watch?v=-RCnNyD0L-s\r *I may signed my name into the .json file using https://www.freecodecamp.org/news/json-comment-example-how-to-comment-in-json-files/\r *i installed express for the application server and ejs \r *i installed nodemon to restart the server when I make changes and dotenv to install enviroment variables to configure the server",
+  "main": "loginServer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node loginServer.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
